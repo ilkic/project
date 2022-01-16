@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseUrl</key>
+	<string>https://gateway.marvel.com/v1/public</string>
+	<key>MarvelPrivateKey</key>
+	<string>67dd2422d2791da76910f465adc4e36a5a7ff912</string>
+	<key>MarvelPublicKey</key>
+	<string>63364bd25f829c94a2952e6ee943be7f</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
